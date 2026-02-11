@@ -1,3 +1,3 @@
-Nama  : Fazl El Hakeem Wilmar
-NIM   : 25071105226
+Nama  : Muhammad Raffi Pratama
+NIM   : 25071103097
 Prodi : S1 Teknik Informatika
