@@ -42,9 +42,9 @@ class StackLinkedList:
     print()
 
 riwayat = Stack()
-riwayat.push('A')
-riwayat.push('B')
-riwayat.push('C')
+riwayat.push('https://drive.google.com/file/d/1OSVx31ynCOCqx1tYipUCz_64NUHUve6/view')
+riwayat.push('https://drive.google.com/file/d/1GDLgo_AtcqfKKDGmlHj2aOFJDpWyGMDI/view')
+riwayat.push('https://www.w3schools.com/python/python_dsa_stacks.asp')
 
 print("LinkedList: ", end="")
 riwayat.traverseAndPrint()
